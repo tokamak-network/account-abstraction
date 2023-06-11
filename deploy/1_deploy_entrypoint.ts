@@ -4,7 +4,7 @@ import { ethers } from 'hardhat'
 
 /**
  *
- * @param hre deploying "EntryPoint" (tx: 0x6ca2e71915400b41b9cdd108de9530a1eb28aef66f70ed51267d841fe098c8ff)...: deployed at 0x34818a22741D92ec36c213111329783d6d1cF8ff with 5316874 gas
+deploying "EntryPoint" (tx: 0x6ca2e71915400b41b9cdd108de9530a1eb28aef66f70ed51267d841fe098c8ff)...: deployed at 0x34818a22741D92ec36c213111329783d6d1cF8ff with 5316874 gas
 ==entrypoint addr= 0x34818a22741D92ec36c213111329783d6d1cF8ff
 
 deploying "SimpleAccount" (tx: 0xff9c899b73a99e24d634e86e6bc042f459c0a2bef3b1651885e3e0065840a6ab)...: deployed at 0x5Ddd760a2bF62D296FdCbBbD00E5bEa6983b34E4 with 1897411 gas
